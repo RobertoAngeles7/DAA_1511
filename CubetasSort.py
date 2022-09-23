@@ -1,3 +1,4 @@
+##Tarea 6. Ordenamiento por método de cubeta
 def cubetas(arreglo):
     datos = max(arreglo)
     slots = len(arreglo)
