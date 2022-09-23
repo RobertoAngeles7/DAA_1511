@@ -1,3 +1,5 @@
+//Tarea 5 Ordenamiento por selección 
+//BECERRA ANGELES ROBERTO ALEXIS 
 public class OrdenSelec{
 
     public void ordenamientoPorSeleccion(int arr[])
